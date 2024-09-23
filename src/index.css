@@ -1,0 +1,14 @@
+
+html{
+    height: 100%;
+}
+
+label{
+    color: whitesmoke;
+}
+
+.mainGradiendBack{
+    background: rgb(9,9,9);
+background: linear-gradient(135deg, rgba(9,9,9,1) 0%, rgba(108,19,135,1) 30%, rgba(56,11,75,1) 42%, rgba(37,7,57,1) 52%, rgba(108,19,135,1) 63%, rgba(56,11,75,1) 75%, rgba(9,9,9,1) 100%);
+}
+
